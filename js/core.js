@@ -24,6 +24,6 @@ $(function() {
 
   setTimeout(function(){
     hideText('#1');
-  }, 70000);
+  }, 7000);
 
 });
