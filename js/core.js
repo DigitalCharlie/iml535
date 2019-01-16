@@ -141,7 +141,7 @@ $(function() {
     showText('#19');
     setTimeout(function(){
       hideText('#19');
-    }, 6500);
+    }, 5500);
   }, 106500);
 
   setTimeout(function(){
