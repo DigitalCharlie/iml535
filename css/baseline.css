@@ -21,7 +21,6 @@
         font-size:2em;
         font-family:Roboto;
         font-weight:200;
-
     }
 
     h1 {
@@ -44,9 +43,9 @@
 /* SECTIONS OF PAGE BACKGROUNDS CSS */
 
     .main {
-        width:800px;
+        width:400px;
         margin:0 auto;
-        padding-top:20%;
+        padding-top:15%;
     }
 
 /* Share Buttons */
