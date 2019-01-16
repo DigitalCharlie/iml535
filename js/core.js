@@ -20,10 +20,10 @@ $(function() {
 
   setTimeout(function(){
     showText('#1');
-  }, 5000);
+  }, 3000);
 
   setTimeout(function(){
     hideText('#1');
-  }, 10000);
+  }, 70000);
 
 });
