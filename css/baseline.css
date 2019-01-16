@@ -21,6 +21,8 @@
         font-size:2em;
         font-family:Roboto;
         font-weight:200;
+        transition-duration: .5s;
+        -webkit-transition-duration: .5s; 
     }
 
     h1 {
