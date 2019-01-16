@@ -46,9 +46,23 @@
 /* SECTIONS OF PAGE BACKGROUNDS CSS */
 
     .main {
-        width:400px;
+        width:600px;
         margin:0 auto;
-        padding-top:15%;
+        padding-top:18%;
+        text-align:center;
+    }
+
+    .image {
+        width:100%;
+        margin-bottom: -25px;
+    }
+
+    img {
+        width:100%;
+    }
+
+    .imagediv {
+        margin-top:-15%;
     }
 
 /* Share Buttons */
